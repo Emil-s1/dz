@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\lesson2\TargetApp\bin\Debug\net8.0-windows\TargetApp.exe
+C:\Users\user\Desktop\lesson2\TargetApp\bin\Debug\net8.0-windows\TargetApp.deps.json
+C:\Users\user\Desktop\lesson2\TargetApp\bin\Debug\net8.0-windows\TargetApp.runtimeconfig.json
+C:\Users\user\Desktop\lesson2\TargetApp\bin\Debug\net8.0-windows\TargetApp.dll
+C:\Users\user\Desktop\lesson2\TargetApp\bin\Debug\net8.0-windows\TargetApp.pdb
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.AssemblyInfo.cs
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.dll
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\refint\TargetApp.dll
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.pdb
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\TargetApp.genruntimeconfig.cache
+C:\Users\user\Desktop\lesson2\TargetApp\obj\Debug\net8.0-windows\ref\TargetApp.dll
