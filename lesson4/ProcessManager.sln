@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManager", "ProcessManager\ProcessManager.csproj", "{A13B3A20-11D2-4E81-9C10-1D32C5B7A001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildProcess", "ChildProcess\ChildProcess.csproj", "{B24C4B31-22E3-4F92-AD21-2E43D6C8B002}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {A13B3A20-11D2-4E81-9C10-1D32C5B7A001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {A13B3A20-11D2-4E81-9C10-1D32C5B7A001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {A13B3A20-11D2-4E81-9C10-1D32C5B7A001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {A13B3A20-11D2-4E81-9C10-1D32C5B7A001}.Release|Any CPU.Build.0 = Release|Any CPU
+        {B24C4B31-22E3-4F92-AD21-2E43D6C8B002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {B24C4B31-22E3-4F92-AD21-2E43D6C8B002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {B24C4B31-22E3-4F92-AD21-2E43D6C8B002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {B24C4B31-22E3-4F92-AD21-2E43D6C8B002}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal
